@@ -1,0 +1,16 @@
+tests/integration/*.log
+node_modules
+.npm
+npm-debug.log*
+.node_repl_history
+dist
+dist-dev
+tests/integration/bin/*
+/bin
+reports/
+.vscode/
+.DS_Store
+src/bundle.js
+src/vendor.bundle.js
+test-output
+coverage
